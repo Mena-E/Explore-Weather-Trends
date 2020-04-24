@@ -9,7 +9,7 @@ Global Warming
 
 This is a brief study of global weather trends with a special focus on the following five US cities:
 
- * <a href="http://www.boston.gov/" target="_blank"> Boston <a/>
+ * [Boston](http://www.boston.gov) 
  * [Chicago](http://www.chicago.gov)
  * [Charlotte](http://www.charlottenc.gov)
  * [San Francisco](http://www.sf.gov)
